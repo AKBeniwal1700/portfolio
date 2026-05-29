@@ -1,46 +1,50 @@
+import { useEffect } from 'react';
+import './index.css';
+import './App.css';
+
+import HeroSection from './components/HeroSection';
+import SkillsSection from './components/SkillsSection';
+import ExperienceSection from './components/ExperienceSection';
+import ProjectsSection from './components/ProjectsSection';
+import ContactSection from './components/ContactSection';
+
 function App() {
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', 'light');
+    localStorage.setItem('theme', 'light');
+  }, []);
+
   return (
-    <div style={{ padding: 40, fontFamily: "Arial" }}>
-      <h1>Abhishek Beniwal</h1>
-      <h2>React Native Developer</h2>
+    <div className="portfolio">
 
-      <p>
-        React Native Developer with 5+ years of experience building mobile
-        applications using React Native, Redux, Firebase, Stripe, Sharetribe
-        and REST APIs.
-      </p>
+      {/* ── Navbar ── */}
+      <nav className="navbar">
+        <div className="nav-logo">AB</div>
+        <div className="nav-right">
+          <ul className="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact" className="nav-cta">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
 
-      <h2>Skills</h2>
-      <ul>
-        <li>React Native</li>
-        <li>JavaScript</li>
-        <li>TypeScript</li>
-        <li>Redux Toolkit</li>
-        <li>Firebase</li>
-        <li>Stripe</li>
-        <li>Sharetribe</li>
-        <li>Node.js</li>
-      </ul>
 
-      <h2>Projects</h2>
+      {/* ── Main Content ── */}
+      <main className="main-content">
+        <HeroSection />
+        <SkillsSection />
+        <ExperienceSection />
+        <ProjectsSection />
+        <ContactSection />
 
-      <h3>PopSeekl</h3>
-      <p>Artist booking platform with payments and notifications.</p>
+        <footer className="footer">
+          <p>Designed &amp; Built by <span>Abhishek Beniwal</span> · {new Date().getFullYear()}</p>
+        </footer>
+      </main>
 
-      <h3>The Bridge</h3>
-      <p>
-        Women's support platform with advisor booking, video calls and
-        subscriptions.
-      </p>
-
-      <h3>Now</h3>
-      <p>
-        Marketplace platform with products, services, Tap Payments and WhatsApp
-        Business API integration.
-      </p>
-
-      <h2>Contact</h2>
-      <p>Email: abhishekbeniwal363@gmail.com</p>
     </div>
   );
 }
