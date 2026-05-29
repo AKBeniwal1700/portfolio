@@ -1,0 +1,84 @@
+======================================================================
+                         ABHISHEK BENIWAL
+                 Senior Mobile & Web Developer
+======================================================================
+Jamal, Sirsa, Haryana, India | +91 8059501069 | abhishekbeniwal363@gmail.com
+Portfolio: https://abhishekbeniwal.dev (or localhost)
+
+----------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+Senior Mobile & Web Developer with 4+ years of professional experience 
+engineering scalable cross-platform mobile apps and high-performance web 
+applications. Proven track record leading development teams, architecting 
+robust full-stack logic, and deploying applications directly to Google Play 
+Store and Apple App Store. Expert in React Native, React.js, and Node.js 
+with extensive experience integrating payment gateways (Stripe, Tap payments) 
+and third-party service pipelines.
+
+----------------------------------------------------------------------
+CORE TECHNICAL SKILLS
+----------------------------------------------------------------------
+* Mobile: React Native, iOS, Android, Expo, HealthKit, OneSignal
+* Frontend: React.js, TypeScript, JavaScript, HTML5, CSS3, Figma
+* State & Logic: Redux, Redux Toolkit, Zustand, Context API, RTK Query
+* Backend & Databases: Node.js, Firebase, Firestore, Supabase, Socket.io
+* Payments & SaaS: Stripe, Tap Payments, Sharetribe, In-App Purchases, Apple Pay
+* Tools & Workflow: Git, GitHub, REST APIs, Jest, Agile/Scrum, CI/CD
+
+----------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------------------------------------
+Devscrew Pvt. Ltd. | Chandigarh, India
+React Native Developer Lead | 06/2025 - Present
+* Architect and lead development of scalable cross-platform mobile apps.
+* Integrate complex secure payment gateways including Stripe, Apple Pay, and local Tap Payments.
+* Oversee full Play Store & App Store deployments, managing beta releases and final submissions.
+* Standardize code quality, manage repository workflows, and coordinate team deliverables.
+
+Inovetive Code Labs Pvt Ltd | Mohali, Punjab, India
+Software Developer | 05/2022 - 05/2025
+* Built, optimized, and maintained responsive mobile apps and web platforms for global clients.
+* Integrated custom B2B SaaS dashboard panels and WhatsApp Business notification triggers.
+* Standardized testing pipelines using Jest, improving application reliability.
+* Managed cross-functional collaborative planning sessions utilizing Agile methodologies.
+
+----------------------------------------------------------------------
+FEATURED PROJECTS
+----------------------------------------------------------------------
+1. Popseekl (Social Commerce Marketplace)
+   * Cross-platform creator marketplace supporting live video show streaming and creator stores.
+   * Integrated Apple Pay, Google Pay, Shopify API, and Mux Video processing systems.
+
+2. Now (On-Demand Service Marketplace)
+   * Double-sided customer and merchant platforms featuring automated booking timetables.
+   * Built direct WhatsApp Business API integrations for transaction dispatch.
+
+3. She Who Wins (Mystic video consulting)
+   * Live consulting platform connecting tarot card readers with users via secure 100ms video feeds.
+   * Programmed Google Gemini AI tarot reading assistant profiles.
+
+4. Joova (Sports School Scheduler)
+   * Class schedule management platform handling dynamic check-ins, courtracket reservations, and Stripe subscriptions.
+
+5. Joven (AI Biological Age Tracker)
+   * HealthKit tracking application calculating biological age metrics from smart device inputs.
+
+6. RSA (Road Side Assistance Platform)
+   * On-demand roadside recovery app utilizing Google Maps SDK and WebSockets for real-time tracking.
+
+7. DropCrew (Sneaker Bidding & Buy Platform)
+   * High-end sneaker bidding platform with secure Escrow bidding mechanics and Stripe elements.
+
+8. LuxCrew (Salon Scheduling & Stylists Marketplace)
+   * On-demand stylist selection system with visual scheduling timelines and review engines.
+
+----------------------------------------------------------------------
+EDUCATION & CERTIFICATIONS
+----------------------------------------------------------------------
+* Bachelor of Technology (B.Tech) in Computer Science & Engineering
+* Specialized Certifications in React Native & Advanced Full-Stack Systems
+
+======================================================================
+Generated from Abhishek Beniwal's Developer Portfolio
+======================================================================
